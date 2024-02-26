@@ -1,6 +1,6 @@
 # Database Design
 
-This assignment focuses on designing a robust PostgreSQL database schema and implementing various querying techniques. The database schema encompasses tables for employee management, project tracking, team organization, and hour logging. Your goal is to create the database schema, import data, and write queries to extract valuable insights from the data.
+This project focuses on designing a robust PostgreSQL database schema and implementing various querying techniques. The database schema encompasses tables for employee management, project tracking, team organization, and hour logging. Your goal is to create the database schema, import data, and write queries to extract valuable insights from the data.
 
 ## Database Schema
 
@@ -9,20 +9,20 @@ The database schema for this assignment consists of the following tables:
 - titles: stores the different titles available for employees.
 - employees: stores employee information, including their titles and managers.
 - teams: stores team information, including team names and locations.
-- projects: stores project information, including project names, clients, start dates, deadlines.
+- projects: stores project information, including project names, clients, start dates, and deadlines.
 - team_project: a joining table for the many-to-many relationship between teams and projects.
 - hour_tracking: tracks the total working hours of employees on various projects, including employee_id, project_id, total_hours
 
 ## Requirements
 
-Write the queries to perform these following actions:
+Write the queries to perform the following actions:
 
-In file `createDatabase.sql`, provide the following querries:
+In the file `createDatabase.sql`, provide the following queries:
 
-- Create database with all tables with the neccessary properties and relationships
-- Import data from the csv files to the created tables
+- Create database with all tables with the necessary properties and relationships
+- Import data from the CSV files to the created tables
 
-In file `retrieval.sql`, provide the following querries:
+In file `retrieval.sql`, provide the following queries:
 
 - Retrieve the team names and their corresponding project count.
 - Retrieve the projects managed by the managers whose first name starts with "J" or "D".
