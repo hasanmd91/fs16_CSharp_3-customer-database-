@@ -1,0 +1,37 @@
+ID,email,name,role,avatar,password
+b08e64e3-7c24-4d27-83fc-ef4f21dbbfdb,john@example.com,John Doe,admin,avatar1,pass123
+fe1d4c94-5c0f-4a21-a8d5-3e557fd69ff9,jane@example.com,Jane Smith,admin,avatar2,password456
+a1bcf7b5-6e37-4ac3-bf1e-980ff24b0a37,alice@example.com,Alice Johnson,user,avatar3,secure789
+f36a98ed-7a6c-43cc-b97d-f0e6c8a6c12a,bob@example.com,Bob Anderson,user,avatar4,abc123
+7f0d6e5b-3f85-49f2-81c0-7f1c78fcba8b,emma@example.com,Emma Davis,user,avatar5,passEmma789
+2a5b3dab-78f1-4e42-a3bc-d4b426459ea7,oliver@example.com,Oliver Wilson,user,avatar6,oliverPass321
+c54c8b1d-29f3-42c1-9a1a-8478fcb11f75,sophia@example.com,Sophia Brown,user,avatar7,sophiaPass567
+9eb5d6cc-5a85-4972-9e01-f0c7a7d10b9e,william@example.com,William Martinez,user,avatar8,williamPass890
+ee1f0211-0cf0-499d-8b28-3e58012f5f29,liam@example.com,Liam Taylor,user,avatar9,liamPass123
+3b3a4569-8e4d-4f12-a4b1-2971e4cf39db,ava@example.com,Ava Rodriguez,user,avatar10,avaPass456
+45efc642-0b7c-4c8d-8e0d-1fc81d6d4c72,noah@example.com,Noah Garcia,user,avatar11,noahPass789
+c319d57f-87b4-43ab-b141-fa0a0ee0d647,isabella@example.com,Isabella Hernandez,user,avatar12,isaPass123
+8b452b14-47d0-45b3-8205-f7e4d9ba8b87,logan@example.com,Logan Martinez,user,avatar13,loganPass456
+1a029d65-8000-4b05-bb0c-5b85b89969b6,olivia@example.com,Olivia Johnson,user,avatar14,oliviaPass789
+99be1dc3-7e75-4c68-bc35-3f6728129c31,mason@example.com,Mason Smith,user,avatar15,masonPass123
+f55b059f-9186-4d8a-8e07-0f5d6c7548b8,amelia@example.com,Amelia Wilson,user,avatar16,ameliaPass456
+6a69504f-3700-4b6d-8f15-ae70a16c268d,lucas@example.com,Lucas Davis,user,avatar17,lucasPass789
+76dbb64e-68ab-4a4e-9c1d-97b9b9b4424b,harper@example.com,Harper Wilson,user,avatar19,harperPass123
+c731674d-9293-4848-b9cd-61a4b58b7db8,evelyn@example.com,Evelyn Martinez,user,avatar20,evelynPass456
+3a660f8d-21f4-41a6-8b60-95eb8c66b64a,liam@example.com,Liam Johnson,user,avatar21,liamPass789
+5e27e7d5-7a60-4913-9f7f-7bcbf55a180d,charlotte@example.com,Charlotte Brown,user,avatar22,charlottePass123
+ad517336-13c4-4a7b-bd57-14c21c506f25,noah@example.com,Noah Garcia,user,avatar23,noahPass456
+af6e13e7-4fc7-4561-9dc6-4e2142594dc7,ava@example.com,Ava Rodriguez,user,avatar24,avaPass789
+ba0bdcf2-9352-49f5-96ff-cf2e0b6e0ba9,oliver@example.com,Oliver Taylor,user,avatar25,oliverPass123
+b8c0e3aa-4006-4ab5-b195-bf4f4a19f7ed,isabella@example.com,Isabella Wilson,user,avatar26,isaPass456
+bf743f1f-2aa6-4246-8f23-98c12828598a,mia@example.com,Mia Smith,user,avatar27,miaPass789
+32a3f6f2-b199-4b62-88e2-60f8d0d04805,james@example.com,James Johnson,user,avatar28,jamesPass123
+13d1969d-7a84-4e8d-9da9-0fa6c78005a0,grace@example.com,Grace Martinez,user,avatar29,gracePass123
+8749af33-1b9c-4c7e-9a3f-8beff03a4bc1,william@example.com,William Johnson,user,avatar30,williamPass456
+c48b24c8-0127-40cb-9bc6-0e6d26d7bb43,victoria@example.com,Victoria Anderson,user,avatar31,victoriaPass789
+e8ccfd21-0da3-442f-81b7-1da38cbe0b26,owen@example.com,Owen Wilson,user,avatar32,owenPass123
+f0918657-ae70-46cc-84fb-035b268a438e,lily@example.com,Lily Davis,user,avatar33,lilyPass456
+674e1e89-63cb-4726-a0d6-d6c61fc2a7e9,alexander@example.com,Alexander Martinez,user,avatar34,alexanderPass789
+
+
+
