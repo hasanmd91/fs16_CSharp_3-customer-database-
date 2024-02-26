@@ -1,6 +1,6 @@
-# PostgreSQL Practice Assignment
+# Database Design
 
-This practice assignment is designed to help you practice various PostgreSQL clauses, constraints, joins, subqueries, and aggregations using the provided database schema.
+This assignment focuses on designing a robust PostgreSQL database schema and implementing various querying techniques. The database schema encompasses tables for employee management, project tracking, team organization, and hour logging. Your goal is to create the database schema, import data, and write queries to extract valuable insights from the data.
 
 ## Database Schema
 
